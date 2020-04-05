@@ -12,5 +12,6 @@ from datetime import datetime
 rawData = GetRawData() # Make API call to get raw case data
 rawData = cleanRawData(rawData) # Clean data to fix Delhi issue
 Top10Data = GetTop10DistrictsWithNumbers(rawData)
-print(type(Top10Data))
-GetCSVfromList(Top10Data,"Hotspots.csv")
+dictTop10Data = dict(Top10Data)
+dictTop10Data.pop("") # remove unknown district
+GetCSVfromDict(dictTop10Data,"Hotspots.csv")

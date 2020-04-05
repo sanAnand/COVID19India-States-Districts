@@ -61,6 +61,15 @@ def GetTopTrends(data):
                 cityTrends[case[key]].append(case.get("dateannounced"))
     return(cityTrends)
 
+def GetStateTrends(data):
+    cases = data.get('raw_data',{})
+    stateTrends = defaultdict(list)
+    for case in cases:
+        for key in case.keys():
+            if key == "detectedstate" and case[key] != "" :
+                stateTrends[case[key]].append(case.get("dateannounced"))
+    return(stateTrends)
+
 def GetTop10Districts(data):
     Districts = extract_element_from_json(data,["raw_data","detecteddistrict"])
     District_wide_Count = Counter(Districts)
@@ -74,25 +83,13 @@ def GetTop10Districts(data):
         Top10Final.append(str(j.split("(")[1]))
     return(Top10Final)
 
-def GetTrendsStates(data) : 
-    States = extract_element_from_json(data,["raw_data","detectedstate"])
-    State_wide_Count = Counter(States)
-    Top10counts = State_wide_Count.most_common()[1:]
-    ListOfStates = []
-    #dprint(Top10counts)
-    for state in State_wide_Count :
-        ListOfStates.append((str(state).split(",")[0]))  
-    print(ListOfStates)
-    return(state)
-    '''Top10Final=[]
-    for i in Top10States:
-        j=i.replace("'","")
-        Top10Final.append(str(j.split("(")[1]))
-    return(Top10Final) '''
+
 
 def GetTop10DistrictsWithNumbers(data):
     Districts = extract_element_from_json(data,["raw_data","detecteddistrict"])
+    #print(type(Districts))
     District_wide_Count = Counter(Districts)
+    #print(type(District_wide_Count))
     Top10counts = District_wide_Count.most_common()[1:11]
     return(Top10counts)
 
