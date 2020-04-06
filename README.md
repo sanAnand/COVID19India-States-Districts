@@ -15,4 +15,4 @@ Answering the above questions:
 2. Running HotSpotWeeklyFreq.py generates "WeeklyHotspots.csv"
 3. Running StatesWeeklyFreq.py generates "WeeklyStateDict.csv"
 
-Use favorite visualization tool to generate charts. I use Excel
+Use favorite visualization tool to generate charts. I use Excel. Note that some data clean-up will be needed (thanks to lazy programming ;) )
