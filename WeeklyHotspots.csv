@@ -1,0 +1,106 @@
+week0,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0, '0': 0}
+week1,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week2,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week3,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week4,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week5,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week6,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 1, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week7,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week8,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week9,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week10,{'null': 0, 'Delhi': 3, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 2, 'Hyderabad': 1, 'Thane': 0, 'Ahmadabad': 0}
+week11,{'null': 0, 'Delhi': 4, 'Mumbai': 7, 'Kasaragod': 0, 'Indore': 0, 'Pune': 15, 'Chennai': 0, 'Jaipur': 2, 'Hyderabad': 2, 'Thane': 2, 'Ahmadabad': 0}
+week12,{'null': 0, 'Delhi': 21, 'Mumbai': 22, 'Kasaragod': 19, 'Indore': 0, 'Pune': 12, 'Chennai': 4, 'Jaipur': 4, 'Hyderabad': 21, 'Thane': 4, 'Ahmadabad': 8}
+week13,{'null': 0, 'Delhi': 44, 'Mumbai': 56, 'Kasaragod': 70, 'Indore': 20, 'Pune': 10, 'Chennai': 14, 'Jaipur': 2, 'Hyderabad': 12, 'Thane': 17, 'Ahmadabad': 13}
+week14,{'null': 0, 'Delhi': 431, 'Mumbai': 373, 'Kasaragod': 53, 'Indore': 115, 'Pune': 63, 'Chennai': 80, 'Jaipur': 84, 'Hyderabad': 51, 'Thane': 59, 'Ahmadabad': 32}
+week15,{'null': 0, 'Delhi': 0, 'Mumbai': 11, 'Kasaragod': 0, 'Indore': 0, 'Pune': 19, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 11}
+week16,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week17,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week18,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week19,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week20,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week21,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week22,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week23,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week24,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week25,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week26,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week27,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week28,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week29,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week30,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week31,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week32,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week33,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week34,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week35,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week36,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week37,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week38,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week39,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week40,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week41,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week42,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week43,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week44,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week45,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week46,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week47,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week48,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week49,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week50,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week51,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+week52,{'null': 0, 'Delhi': 0, 'Mumbai': 0, 'Kasaragod': 0, 'Indore': 0, 'Pune': 0, 'Chennai': 0, 'Jaipur': 0, 'Hyderabad': 0, 'Thane': 0, 'Ahmadabad': 0}
+0,{}
+1,{}
+2,{}
+3,{}
+4,{}
+5,{}
+6,{}
+7,{}
+8,{}
+9,{}
+10,{}
+11,{}
+12,{}
+13,{}
+14,{}
+15,{}
+16,{}
+17,{}
+18,{}
+19,{}
+20,{}
+21,{}
+22,{}
+23,{}
+24,{}
+25,{}
+26,{}
+27,{}
+28,{}
+29,{}
+30,{}
+31,{}
+32,{}
+33,{}
+34,{}
+35,{}
+36,{}
+37,{}
+38,{}
+39,{}
+40,{}
+41,{}
+42,{}
+43,{}
+44,{}
+45,{}
+46,{}
+47,{}
+48,{}
+49,{}
+50,{}
+51,{}
+52,{}

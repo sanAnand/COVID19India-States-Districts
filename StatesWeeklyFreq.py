@@ -46,10 +46,26 @@ for current, nex in zip(aList, aList[1:]):
             current[1] = 0
             current[2] = 0
 
-#print(aList)
-
-
+# Create nested dictionary in thr format: {Week Number: {{State 1: count}, {State 2: count}}}
+Weeks = list(range(0,53))
+WeeklyState = {}    
+IndianStates = ["Andhra Pradesh","Arunachal Pradesh ","Assam","Bihar","Chhattisgarh","Goa","Gujarat","Haryana","Himachal Pradesh","Jammu and Kashmir","Jharkhand","Karnataka","Kerala","Madhya Pradesh","Maharashtra","Manipur","Meghalaya","Mizoram","Nagaland","Odisha","Punjab","Rajasthan","Sikkim","Tamil Nadu","Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal","Andaman and Nicobar Islands","Chandigarh","Dadra and Nagar Haveli","Daman and Diu","Lakshadweep","Delhi","Puducherry"]
+for week in Weeks:
+    WeeklyState.update({'week' + str(week) :{'null': 0}})
+for week in Weeks:
+    for IndianState in IndianStates: 
+        WeeklyState['week' + str(week)][IndianState] = 0
+for week in Weeks:
+    WeeklyState.update({week :{}})
+    for a in aList: 
+        WeeklyState['week'+str(a[1])][a[0]] = a[2]
+        
 
 # Export Weekly Frequency data to CSV 
-np.savetxt('StatesWeeklyFreq.csv', aList,delimiter=",", fmt="%s")
+with open("WeeklyStateDict.csv", 'w') as f:
+        for key in WeeklyState.keys():
+            f.write("%s,%s\n"%(key,WeeklyState[key]))
+
+
+
 

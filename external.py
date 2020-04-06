@@ -90,7 +90,7 @@ def GetTop10DistrictsWithNumbers(data):
     #print(type(Districts))
     District_wide_Count = Counter(Districts)
     #print(type(District_wide_Count))
-    Top10counts = District_wide_Count.most_common()[1:11]
+    Top10counts = District_wide_Count.most_common()[:10]
     return(Top10counts)
 
 def GetCSVfromList(mylist,csvname):

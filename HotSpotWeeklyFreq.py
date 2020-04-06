@@ -41,6 +41,24 @@ for current, nex in zip(aList, aList[1:]):
             current[1] = 0
             current[2] = 0
 print(aList)
-# Export Weekly Frequency data to CSV 
-np.savetxt('HotSpotWeeklyFreq.csv', aList,delimiter=",", fmt="%s", header="City, Week,Frequency")
 
+# Create nested dictionary in thr format: {Week Number: {{Hotspot 1: count}, {Hotspot 2: count}}}
+Weeks = list(range(0,53))
+WeeklyHotspots = {}    
+Top10CitiesList = GetTop10Districts(rawData)
+Top10CitiesList.remove("")
+#print(Top10CitiesList)
+for week in Weeks:
+    WeeklyHotspots.update({'week' + str(week) :{'null': 0}})
+for week in Weeks:
+    for Top10City in Top10CitiesList: 
+        WeeklyHotspots['week' + str(week)][Top10City] = 0
+for week in Weeks:
+    WeeklyHotspots.update({week :{}})
+    for a in aList: 
+        WeeklyHotspots['week'+str(a[1])][a[0]] = a[2]
+
+# Export Weekly Frequency data to CSV 
+with open("WeeklyHotspots.csv", 'w') as f:
+        for key in WeeklyHotspots.keys():
+            f.write("%s,%s\n"%(key,WeeklyHotspots[key]))
